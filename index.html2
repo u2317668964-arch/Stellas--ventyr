@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Stellas äventyr</title>
+</head>
+
+<body>
+
+<h1>🐱 Stellas äventyr</h1>
+<p>Välkommen till Stellas spel!</p>
+
+<button onclick="alert('Stella hittade en skatt!')">
+Starta äventyr
+</button>
+
+</body>
+</html>
